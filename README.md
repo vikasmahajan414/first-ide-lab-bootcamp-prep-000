@@ -2,7 +2,7 @@
 
 <div class="readme-content-test--hide-when-active">
 
-  <br>
+<br>
 
   Now that you've downloaded and installed the Learn IDE, it's time to solve your first lab.
 
